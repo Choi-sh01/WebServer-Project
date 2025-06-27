@@ -56,13 +56,13 @@ React 기반 사용자 인터페이스와 JSP 기반 관리자 시스템을 Spri
 ![제보 페이지](./screenshots/제보페이지.jpg)
 
 ### 🔐 관리자 로그인
-![관리자 로그인](./screenshots/관리자 로그인.jpg)
+![관리자 로그인](./screenshots/관리자로그인.jpg)
 
 ### 🧭 관리자 메인
-![관리자 메인](./screenshots/관리자 홈페이지.jpg)
+![관리자 메인](./screenshots/관리자홈페이지.jpg)
 
 ### 📬 문의 목록
-![문의 목록](./screenshots/관리자 문의목록.jpg)
+![문의 목록](./screenshots/관리자문의목록.jpg)
 
 
 ---
