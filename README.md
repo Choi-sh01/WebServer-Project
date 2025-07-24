@@ -1,3 +1,12 @@
+[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
+![Last Commit](https://img.shields.io/github/last-commit/Choi-sh01/WebServer-Project)
+![Repo Size](https://img.shields.io/github/repo-size/Choi-sh01/WebServer-Project)
+![Top Language](https://img.shields.io/github/languages/top/Choi-sh01/WebServer-Project)
+![Issues](https://img.shields.io/github/issues/Choi-sh01/WebServer-Project)
+![Forks](https://img.shields.io/github/forks/Choi-sh01/WebServer-Project?style=social)
+![Stars](https://img.shields.io/github/stars/Choi-sh01/WebServer-Project?style=social)
+
+
 # 강원포커스 (Gangwon Focus)
 
 > 강원도 지역 주민을 위한 맞춤형 뉴스 통합 플랫폼
