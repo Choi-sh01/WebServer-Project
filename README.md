@@ -33,18 +33,21 @@ React 기반 사용자 인터페이스와 JSP 기반 관리자 시스템을 Spri
 ## 🛠 사용 기술 (Tech Stack)
 
 ### 🔹 Frontend
-- React
-- Axios (REST API 연동)
-- React Router DOM
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=reactrouter&logoColor=white)
 
 ### 🔹 Backend
-- Java 17
-- Spring Boot 3.4.5
-- Spring Data JPA
-- JSP + JSTL (관리자 페이지)
-- MySQL (로컬 DB)
-- Lombok, Embedded Tomcat
-- Spring MVC Interceptor (세션 인증)
+![Java](https://img.shields.io/badge/Java_17-007396?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat&logo=spring&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-007396?style=flat)
+![JSTL](https://img.shields.io/badge/JSTL-cc0000?style=flat)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Lombok](https://img.shields.io/badge/Lombok-CA0C17?style=flat&logo=lombok&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat&logo=spring&logoColor=white)
+
 
 ---
 
