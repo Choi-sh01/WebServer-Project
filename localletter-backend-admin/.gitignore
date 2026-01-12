@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### 보안 설정 추가 ###
+localletter-backend-admin/src/main/resources/application.yml
